@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat&family=Rubik&display=swap');
+body{
+    background-image:
+    linear-gradient(to right,
+    rgb(0, 255, 157), 
+    rgb(0, 255, 213),
+    rgb(0, 154, 82));
+    
+}
+
+
+#img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+#corazon{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    padding-top: 25vw;   
+}
+#possum{
+    position: absolute;
+    max-width: 58%;
+    height: auto;
+    margin-top: 42%;
+    margin-left: 20%;
+    border-radius: 100%;
+    z-index: -1; 
+}
+
+#blossom1{
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+    z-index: -2;
+}
+
+#blossom2{
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+    z-index: -2;
+}
+
+/* .bottom-section{
+    font-family: 'Dancing Script', 'cursive';
+    background-color: #82f0ff4a;
+    color: rgb(40, 26, 42);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 35px;
+    
+} */
